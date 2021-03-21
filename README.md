@@ -22,3 +22,12 @@ We need to provide Google Analytic like services to our customers. Please provid
 3. Provide metrics to customers with at most one hour delay.
 4. Run with minimum downtime.
 5. Have the ability to reprocess historical data in case of bugs in the processing logic.
+
+## Coding Question additional explanation
+
+getAverageOfLastNElements: O(n) time complexity.   
+addElement: O(1) is time complexity.  
+getElements : O(n) time complexity.  
+getNthElement: O(1) time complexity.  
+getFirstIndexOfElement : O(n) time complexity.  
+getElementsIndexes : O(n) time complexity.  
